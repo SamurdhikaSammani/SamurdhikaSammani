@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sammani Dias</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samusd&label=Profile%20views&color=0e75b6&style=flat" alt="samusd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samusd&label=Profile%20views&color=0e75b6&style=flat" alt="samusd" /> </p>
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
