@@ -5,9 +5,6 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **project 1**
-
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sammanidias575@gmail.com**
 
